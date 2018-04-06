@@ -1,5 +1,4 @@
 # workshop-demo
-A demo workshop for HackCulture.
 
 ## What I've so far
 
